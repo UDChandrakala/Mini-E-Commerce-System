@@ -40,6 +40,7 @@ while True:
     print("5.add to cart")
     print("6.remove from cart")
     print("7.place order")
+    print("8.Exit")
     n=int(input())
     match n:
         case 1:
